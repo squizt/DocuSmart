@@ -20,17 +20,17 @@ concu pour gagner du temps dans le traitement de l'information.
 - [x] suppression du compte.
 
 ## Would be nice to have
-- [] L’utilisateur peut recevoir une notification. 
-- [] l’utilisateur peut ecouter son document en en audio.
-- [] L’utilisateur peut traduire un document en plusieurs langues .
-- [] L’utilisateur peut transformer un document en scenario.
-- [] l’utilisateur peut écrire un bouquin .
-- [] L’utilisateur peut laisser un commentaire ou une remarque sur des parties précis du documents.
-- [] l’utilisateur doit donner une note, un avis ou une réaction avant de soumettre le document.
-- [] L’utilisateur doit répondre a des question simple pour prouver qu’il a compris le contenu.
-- [] le document change ou s’adapte selon les réponses ou préférence de l’utilisateur ( langue, therme , nom affiche.
-- [] le document peuvent être partage a plusieurs utilisateurs avec suivi individuel pour chaque interaction.
-- [] L’utilisateur peut scanner un document copie dur et transforme en document word ou PDF.
+- [ ] L’utilisateur peut recevoir une notification. 
+- [ ] l’utilisateur peut ecouter son document en en audio.
+- [ ] L’utilisateur peut traduire un document en plusieurs langues .
+- [ ] L’utilisateur peut transformer un document en scenario.
+- [ ] l’utilisateur peut écrire un bouquin .
+- [ ] L’utilisateur peut laisser un commentaire ou une remarque sur des parties précis du documents.
+- [ ] l’utilisateur doit donner une note, un avis ou une réaction avant de soumettre le document.
+- [ ] L’utilisateur doit répondre a des question simple pour prouver qu’il a compris le contenu.
+- [ ] le document change ou s’adapte selon les réponses ou préférence de l’utilisateur ( langue, therme , nom affiche.
+- [ ] le document peuvent être partage a plusieurs utilisateurs avec suivi individuel pour chaque interaction.
+- [ ] L’utilisateur peut scanner un document copie dur et transforme en document word ou PDF.
 
 
 ## Prototype Figma
