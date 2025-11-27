@@ -8,3 +8,46 @@ concu pour gagner du temps dans le traitement de l'information.
 - Bellamy Valenta
 - Forestal M. Amanda
 - Kalisse Youvenzky
+
+## Must Have
+[x] L'utilisateur peut creer un compte et se connecter afin d'acceder a l'application.
+[x] importation de documents
+[x] Analyser instantanement des documents (pdf, word, txt)
+[x] Chatbot.
+[x] Resumer le contenu du document. 
+[x] Exporter le document en pdf ou word.
+[x] Historique des documents.
+[x] suppression du compte.
+
+## Would be nice to have
+L’utilisateur peut recevoir une notification. 
+l’utilisateur peut voir son document en en audio.
+L’utilisateur peut traduire un document en plusieurs langues .
+L’application peut générer des statistiques sécurités .
+L’utilisateur peut transformer un document en scenario.
+l’utilisateur peut écrire un bouquin .
+L’utilisateur peut laisser un commentaire ou une remarque sur des parties précis du documents.
+l’utilisateur recoit un lien pour accéder au document (suivi individualité )
+l’utilisateur doit donner une note, un avis ou une réaction avant de soumettre le document.
+L’utilisateur doit répondre a des question simple pour prouver qu’il a compris le contenu.
+L’utilisateur doit signer avec sa souris avec un stylet au via emprunt digitale (sur app mobile).
+si l’utilisateur quitte le document sa progression a la prochaine ouverture.
+le document change ou s’adapte selon les réponses ou préférence de l’utilisateur ( langue, therme , nom affiche.
+le document peuvent être partage a plusieurs utilisateurs avec suivi individuel pour chaque interaction.
+l’utilisateur peut scanner un document copie dur et transforme en document word ou PDF.
+
+
+## Prototype Figma
+
+![Docusmart](https://github.com/user-attachments/assets/27b0234c-a94a-4ced-a831-a583a06099f6)
+
+
+
+
+
+
+
+
+
+
+
